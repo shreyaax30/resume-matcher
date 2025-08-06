@@ -2,6 +2,9 @@
 
 A NLP-powered web tool to evaluate how well a resume matches a job description using semantic similarity and keyword analysis.
 
+### 🌐 Live Demo  
+[Click here to try the app on Streamlit](https://resume-matcher-3008.streamlit.app/)
+
 ## 🚀 Tech Stack
 - Python
 - Streamlit
